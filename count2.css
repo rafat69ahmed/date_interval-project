@@ -1,0 +1,45 @@
+
+@font-face{
+	font-family: spider;
+    src: url(HOMOARAK.TTF);
+}
+
+#container{
+	width: 250px;
+	height: 93px;
+	border: 2px solid black;
+	text-align: center;
+	background: #005977;
+	margin: 150px auto;
+	display: -webkit-flex;
+    display: flex;
+    
+}
+
+
+#display1{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	background: #F2F2F2;
+	width: 211px;
+	height: 30px;
+	border: 1px #9CFFFF;
+	border-radius: 3px;
+	text-align: right;
+	font: 20px bold;
+	box-shadow: inset 5px 3px 4px rgba(0,0,0,0.4);
+
+}
+
+.head{
+	text-align: center;
+	font-family: spider;
+}
+
+p{
+	text-align: center;
+	margin-top: 5px !important;
+    margin-right: 11px!important;
+    font-family: calculator;
+}
